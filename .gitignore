@@ -1,0 +1,12 @@
+.build/
+DerivedData/
+.rea/
+.codegraph/
+.DS_Store
+*.xcuserstate
+xcuserdata/
+
+# Local research, generated agent metadata, and private work notes.
+.atl/
+odd/
+docs/rea-findings.md
